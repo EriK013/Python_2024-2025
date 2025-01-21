@@ -1,7 +1,7 @@
 from tkinter import ttk
 import settings
 from style import TkinterStyle
-from finalProject.actions import *
+from actions import *
 from tkinter.colorchooser import askcolor
 import re
 
