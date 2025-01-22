@@ -11,7 +11,7 @@ BIRTH = [3] # How many cells to produce another cell
 DIRECTIONS_MOORE = [(0, 1), (1, 0), (0, -1), (-1, 0), (1, 1), (-1, -1), (1, -1), (-1, 1)]
 DIRECTIONS_NEUMANN = [(0,1) , (1, 0), (0, -1), (-1, 0)]
 DIRECTIONS = DIRECTIONS_MOORE
-DISTANCE_OPTIONS = ['Von Neumann', 'Moore']
+DISTANCE_OPTIONS = ['Moore', 'Von Neumann']
 
 # COLOR SETTINGS
 CELL_COLOR =  '#ffffff'
